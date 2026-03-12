@@ -1,6 +1,6 @@
-TOKEN = '8781858099:AAHAZh_wfRAYjAuaZZ-BXJTojELbKYqBkHE'
+TOKEN = 'ваш токен'
 
-API_KEY = '1737c0bf6ac4b5f784720cb4'
+API_KEY = 'ваш API'
 
 keys = {
     'рубль': 'RUB',
